@@ -3,7 +3,7 @@
     <title>AG Local Services</title>
     <link href="http://www.aglocalservices.com/feed.xml" rel="self" />
     <link href="http://www.aglocalservices.com" />
-    <updated>2022-01-16T18:18:03-05:00</updated>
+    <updated>2022-01-16T18:48:23-05:00</updated>
     <author>
         <name>AG</name>
     </author>
@@ -37,61 +37,40 @@
         <link href="http://www.aglocalservices.com/towns.html"/>
         <id>http://www.aglocalservices.com/towns.html</id>
 
-        <updated>2022-01-16T18:17:54-05:00</updated>
+        <updated>2022-01-16T18:48:23-05:00</updated>
             <summary>
                 <![CDATA[
-                     Ackermans Mills, Arcola, Bergenfield, Bloomingdale, Campgaw, Crystal Lake, Darlington, Dumont, Elmwood Park, Emerson, Erskine, Fair Lawn, Fardale, Ferdinands Mills, Franklin Lakes, Garfield, Glen Rock, Hackensack, Haskell, Haworth, Hawthorne, Hillsdale, Ho-Ho-Kus, Lodi, Maywood, Midland Park, New Bridge, New Milford, Oakland, Oradell, Paramus, Pines Lake, Pompton Lakes, Pulis Mills, Radburn, Ridgewood, River Edge, River Vale, Riverdale, Rochelle Park, Saddle Brook, Teaneck, Villa Marie Claire, Wanaque, Warren Point, West Englewood, Westwood, Wyckoff. 
+                     Bergenfield, Butler, Closter, Englewood, Falr Lawn, Franklin Lakes, Glen Rock, Hawthorn, Hillburn, Hillsdale, Mahwah, Northvale, Oakland, Paramus, Pequannock, Pompton Lakes, Ramsey, Ridgewood, Ringwood, Riverdale, Sloatsburg, Suffern, Teaneck, Tenafly, Wanaque, Westwood, Wyckoff. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ul style="list-style-type: square;">
-<li>Ackermans Mills, </li>
-<li>Arcola, </li>
 <li>Bergenfield, </li>
-<li>Bloomingdale, </li>
-<li>Campgaw, </li>
-<li>Crystal Lake, </li>
-<li>Darlington, </li>
-<li>Dumont, </li>
-<li>Elmwood Park, </li>
-<li>Emerson, </li>
-<li>Erskine, </li>
-<li>Fair Lawn, </li>
-<li>Fardale, </li>
-<li>Ferdinands Mills, </li>
+<li>Butler, </li>
+<li>Closter, </li>
+<li>Englewood, </li>
+<li>Falr Lawn, </li>
 <li>Franklin Lakes, </li>
-<li>Garfield, </li>
 <li>Glen Rock, </li>
-<li>Hackensack, </li>
-<li>Haskell, </li>
-<li>Haworth, </li>
-<li>Hawthorne, </li>
+<li>Hawthorn, </li>
+<li>Hillburn, </li>
 <li>Hillsdale, </li>
-<li>Ho-Ho-Kus, </li>
-<li>Lodi, </li>
-<li>Maywood, </li>
-<li>Midland Park, </li>
-<li>New Bridge, </li>
-<li>New Milford, </li>
+<li>Mahwah, </li>
+<li>Northvale, </li>
 <li>Oakland, </li>
-<li>Oradell, </li>
 <li>Paramus, </li>
-<li>Pines Lake, </li>
+<li>Pequannock, </li>
 <li>Pompton Lakes, </li>
-<li>Pulis Mills, </li>
-<li>Radburn, </li>
+<li>Ramsey, </li>
 <li>Ridgewood, </li>
-<li>River Edge, </li>
-<li>River Vale, </li>
+<li>Ringwood, </li>
 <li>Riverdale, </li>
-<li>Rochelle Park, </li>
-<li>Saddle Brook, </li>
+<li>Sloatsburg, </li>
+<li>Suffern, </li>
 <li>Teaneck, </li>
-<li>Villa Marie Claire, </li>
+<li>Tenafly, </li>
 <li>Wanaque, </li>
-<li>Warren Point, </li>
-<li>West Englewood, </li>
 <li>Westwood, </li>
 <li>Wyckoff.</li>
 </ul>
