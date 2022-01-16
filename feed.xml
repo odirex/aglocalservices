@@ -3,7 +3,7 @@
     <title>AG Local Services</title>
     <link href="http://www.aglocalservices.com/feed.xml" rel="self" />
     <link href="http://www.aglocalservices.com" />
-    <updated>2022-01-16T18:15:57-05:00</updated>
+    <updated>2022-01-16T18:18:03-05:00</updated>
     <author>
         <name>AG</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="http://www.aglocalservices.com/call-or-text.html"/>
         <id>http://www.aglocalservices.com/call-or-text.html</id>
 
-        <updated>2022-01-16T18:15:57-05:00</updated>
+        <updated>2022-01-16T18:17:30-05:00</updated>
             <summary>
                 <![CDATA[
                     Call or Text: (201) 519-2481
@@ -37,16 +37,15 @@
         <link href="http://www.aglocalservices.com/towns.html"/>
         <id>http://www.aglocalservices.com/towns.html</id>
 
-        <updated>2022-01-16T17:57:15-05:00</updated>
+        <updated>2022-01-16T18:17:54-05:00</updated>
             <summary>
                 <![CDATA[
-                    A repair technician is available at your convenience in the following towns: Ackermans Mills, Arcola, Bergenfield, Bloomingdale, Campgaw, Crystal Lake, Darlington, Dumont, Elmwood Park, Emerson, Erskine, Fair Lawn, Fardale, Ferdinands Mills, Franklin Lakes, Garfield, Glen Rock, Hackensack, Haskell, Haworth, Hawthorne, Hillsdale, Ho-Ho-Kus, Lodi, Maywood, Midland Park, New Bridge, New Milford, Oakland, Oradell, Paramus, Pines Lake, Pompton Lakes, Pulis Mills, Radburn, Ridgewood, River Edge, River Vale, Riverdale, Rochelle Park, Saddle Brook, Teaneck, Villa Marie Claire, Wanaque, Warren Point, West Englewood, Westwood, Wyckoff. 
+                     Ackermans Mills, Arcola, Bergenfield, Bloomingdale, Campgaw, Crystal Lake, Darlington, Dumont, Elmwood Park, Emerson, Erskine, Fair Lawn, Fardale, Ferdinands Mills, Franklin Lakes, Garfield, Glen Rock, Hackensack, Haskell, Haworth, Hawthorne, Hillsdale, Ho-Ho-Kus, Lodi, Maywood, Midland Park, New Bridge, New Milford, Oakland, Oradell, Paramus, Pines Lake, Pompton Lakes, Pulis Mills, Radburn, Ridgewood, River Edge, River Vale, Riverdale, Rochelle Park, Saddle Brook, Teaneck, Villa Marie Claire, Wanaque, Warren Point, West Englewood, Westwood, Wyckoff. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A repair technician is available at your convenience in the following towns:</p>
-<ul style="list-style-type: square;">
+                <ul style="list-style-type: square;">
 <li>Ackermans Mills, </li>
 <li>Arcola, </li>
 <li>Bergenfield, </li>
@@ -107,16 +106,15 @@
         <link href="http://www.aglocalservices.com/brands.html"/>
         <id>http://www.aglocalservices.com/brands.html</id>
 
-        <updated>2022-01-16T18:00:58-05:00</updated>
+        <updated>2022-01-16T18:18:03-05:00</updated>
             <summary>
                 <![CDATA[
-                    We work with most brands: Bosch, Electrolux, Frigidaire, GE, LG, Maytag, Samsung, Whirlpool. 
+                     Bosch, Electrolux, Frigidaire, GE, LG, Maytag, Samsung, Whirlpool. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>We work with most brands:</p>
-<ul style="list-style-type: circle;">
+                <ul style="list-style-type: circle;">
 <li>Bosch, </li>
 <li>Electrolux, </li>
 <li>Frigidaire, </li>
