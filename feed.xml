@@ -3,12 +3,32 @@
     <title>AG Local Services</title>
     <link href="http://www.aglocalservices.com/feed.xml" rel="self" />
     <link href="http://www.aglocalservices.com" />
-    <updated>2022-01-16T18:00:58-05:00</updated>
+    <updated>2022-01-16T18:15:57-05:00</updated>
     <author>
         <name>AG</name>
     </author>
     <id>http://www.aglocalservices.com</id>
 
+    <entry>
+        <title>Get In Touch</title>
+        <author>
+            <name>AG</name>
+        </author>
+        <link href="http://www.aglocalservices.com/call-or-text.html"/>
+        <id>http://www.aglocalservices.com/call-or-text.html</id>
+
+        <updated>2022-01-16T18:15:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Call or Text: (201) 519-2481
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Call or Text: (201) 519-2481</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Service Areas</title>
         <author>
