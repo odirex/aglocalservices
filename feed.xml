@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>AG Local Services</title>
+    <link href="http://www.aglocalservices.com/feed.xml" rel="self" />
+    <link href="http://www.aglocalservices.com" />
+    <updated>2022-01-16T18:00:58-05:00</updated>
+    <author>
+        <name>AG</name>
+    </author>
+    <id>http://www.aglocalservices.com</id>
+
+    <entry>
+        <title>Service Areas</title>
+        <author>
+            <name>AG</name>
+        </author>
+        <link href="http://www.aglocalservices.com/towns.html"/>
+        <id>http://www.aglocalservices.com/towns.html</id>
+
+        <updated>2022-01-16T17:57:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A repair technician is available at your convenience in the following towns: Ackermans Mills, Arcola, Bergenfield, Bloomingdale, Campgaw, Crystal Lake, Darlington, Dumont, Elmwood Park, Emerson, Erskine, Fair Lawn, Fardale, Ferdinands Mills, Franklin Lakes, Garfield, Glen Rock, Hackensack, Haskell, Haworth, Hawthorne, Hillsdale, Ho-Ho-Kus, Lodi, Maywood, Midland Park, New Bridge, New Milford, Oakland, Oradell, Paramus, Pines Lake, Pompton Lakes, Pulis Mills, Radburn, Ridgewood, River Edge, River Vale, Riverdale, Rochelle Park, Saddle Brook, Teaneck, Villa Marie Claire, Wanaque, Warren Point, West Englewood, Westwood, Wyckoff. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A repair technician is available at your convenience in the following towns:</p>
+<ul style="list-style-type: square;">
+<li>Ackermans Mills, </li>
+<li>Arcola, </li>
+<li>Bergenfield, </li>
+<li>Bloomingdale, </li>
+<li>Campgaw, </li>
+<li>Crystal Lake, </li>
+<li>Darlington, </li>
+<li>Dumont, </li>
+<li>Elmwood Park, </li>
+<li>Emerson, </li>
+<li>Erskine, </li>
+<li>Fair Lawn, </li>
+<li>Fardale, </li>
+<li>Ferdinands Mills, </li>
+<li>Franklin Lakes, </li>
+<li>Garfield, </li>
+<li>Glen Rock, </li>
+<li>Hackensack, </li>
+<li>Haskell, </li>
+<li>Haworth, </li>
+<li>Hawthorne, </li>
+<li>Hillsdale, </li>
+<li>Ho-Ho-Kus, </li>
+<li>Lodi, </li>
+<li>Maywood, </li>
+<li>Midland Park, </li>
+<li>New Bridge, </li>
+<li>New Milford, </li>
+<li>Oakland, </li>
+<li>Oradell, </li>
+<li>Paramus, </li>
+<li>Pines Lake, </li>
+<li>Pompton Lakes, </li>
+<li>Pulis Mills, </li>
+<li>Radburn, </li>
+<li>Ridgewood, </li>
+<li>River Edge, </li>
+<li>River Vale, </li>
+<li>Riverdale, </li>
+<li>Rochelle Park, </li>
+<li>Saddle Brook, </li>
+<li>Teaneck, </li>
+<li>Villa Marie Claire, </li>
+<li>Wanaque, </li>
+<li>Warren Point, </li>
+<li>West Englewood, </li>
+<li>Westwood, </li>
+<li>Wyckoff.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Supported Brands</title>
+        <author>
+            <name>AG</name>
+        </author>
+        <link href="http://www.aglocalservices.com/brands.html"/>
+        <id>http://www.aglocalservices.com/brands.html</id>
+
+        <updated>2022-01-16T18:00:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                    We work with most brands: Bosch, Electrolux, Frigidaire, GE, LG, Maytag, Samsung, Whirlpool. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We work with most brands:</p>
+<ul style="list-style-type: circle;">
+<li>Bosch, </li>
+<li>Electrolux, </li>
+<li>Frigidaire, </li>
+<li>GE, </li>
+<li>LG, </li>
+<li>Maytag, </li>
+<li>Samsung, </li>
+<li>Whirlpool.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
