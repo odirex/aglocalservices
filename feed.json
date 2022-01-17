@@ -41,15 +41,15 @@
             "id": "http://www.aglocalservices.com/brands.html",
             "url": "http://www.aglocalservices.com/brands.html",
             "title": "Supported Brands",
-            "summary": " Bosch, Electrolux, Frigidaire, GE, LG, Maytag, Samsung, Whirlpool. ",
-            "content_html": "<ul style=\"list-style-type: circle;\">\n<li>Bosch, </li>\n<li>Electrolux, </li>\n<li>Frigidaire, </li>\n<li>GE, </li>\n<li>LG, </li>\n<li>Maytag, </li>\n<li>Samsung, </li>\n<li>Whirlpool.</li>\n</ul>",
+            "summary": " Electrolux, Frigidaire, Samsung, Whirlpool. ",
+            "content_html": "<ul style=\"list-style-type: circle;\">\n<li>Electrolux, </li>\n<li>Frigidaire, </li>\n<li>Samsung, </li>\n<li>Whirlpool.</li>\n</ul>",
             "author": {
                 "name": "AG"
             },
             "tags": [
             ],
             "date_published": "2022-01-16T17:48:13-05:00",
-            "date_modified": "2022-01-16T18:18:03-05:00"
+            "date_modified": "2022-01-16T21:55:05-05:00"
         }
     ]
 }

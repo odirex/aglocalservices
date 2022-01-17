@@ -3,7 +3,7 @@
     <title>AG Local Services</title>
     <link href="http://www.aglocalservices.com/feed.xml" rel="self" />
     <link href="http://www.aglocalservices.com" />
-    <updated>2022-01-16T18:53:58-05:00</updated>
+    <updated>2022-01-16T21:55:05-05:00</updated>
     <author>
         <name>AG</name>
     </author>
@@ -85,21 +85,17 @@
         <link href="http://www.aglocalservices.com/brands.html"/>
         <id>http://www.aglocalservices.com/brands.html</id>
 
-        <updated>2022-01-16T18:18:03-05:00</updated>
+        <updated>2022-01-16T21:55:05-05:00</updated>
             <summary>
                 <![CDATA[
-                     Bosch, Electrolux, Frigidaire, GE, LG, Maytag, Samsung, Whirlpool. 
+                     Electrolux, Frigidaire, Samsung, Whirlpool. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ul style="list-style-type: circle;">
-<li>Bosch, </li>
 <li>Electrolux, </li>
 <li>Frigidaire, </li>
-<li>GE, </li>
-<li>LG, </li>
-<li>Maytag, </li>
 <li>Samsung, </li>
 <li>Whirlpool.</li>
 </ul>
